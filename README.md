@@ -2,8 +2,10 @@
 # DEVELOPER
 ## Conocimientos
 <img src="/html.png" alt="" /><img src="/css.png" alt="" /><img src="/js.png" alt="" /><img src="/java.png" alt="" />
-<img src="/aangular.png" alt="" /><img src="/react.png" alt="" /><img src="/vue.png" alt="" />
-
+##
+<img src="/angular.png" alt="" /><img src="/react.png" alt="" /><img src="/vue.png" alt="" />
+# IDIOMAS
+## Conocimientos
 <!--
 **dosdedoce/dosdedoce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
