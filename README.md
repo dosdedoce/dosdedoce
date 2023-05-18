@@ -6,6 +6,7 @@
 <img src="/angular.png" alt="" /><img src="/react.png" alt="" /><img src="/vue.png" alt="" />
 # IDIOMAS
 ## Conocimientos
+<img src="/sp.png" alt="" /><img src="/uk.png" alt="" />
 <!--
 **dosdedoce/dosdedoce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
