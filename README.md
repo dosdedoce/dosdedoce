@@ -1,6 +1,6 @@
 ### Hi there WEB👋
 # Mi conocimientos
-<img src="/html.png" alt="" /><img src="/ccs.png" alt="" />
+<img src="/html.png" alt="" /> <img src="/ccs.png" alt="" />
 <!--
 **dosdedoce/dosdedoce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
